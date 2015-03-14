@@ -1,1 +1,1 @@
-typecho2duoshuo
+将Typecho后台数据库导出的sql文件输出为多说的JSON格式。
